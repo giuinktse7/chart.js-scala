@@ -1,3 +1,3 @@
-# The Scala.js tutorial
+# Chart.js-scala
 
-This repository contains the code accompanying the [Scala.js tutorial](http://www.scala-js.org/doc/tutorial.html)
+Scala facade for the JavaScript chart.js library
